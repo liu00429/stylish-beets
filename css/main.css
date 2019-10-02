@@ -3,7 +3,8 @@ html {
 }
 
 header nav:last-of-type {
-  background-color: #8f2440;
+  color: #8f2440;
+  font-size: 1.125rem;
 }
 
 a:not(.current) {
@@ -24,7 +25,7 @@ h2 {
 p {
   font-family: "PT Sans";
   font-size: .8rem;
-  line-height: 1.5;
+  line-height: .8;
   font-weight: normal;
 }
 
@@ -43,6 +44,5 @@ a:hover {
 }
 
 img {
-  width: 100px;
-  border-radius: 25px;
+  width: 100%;
 }
