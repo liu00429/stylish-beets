@@ -8,7 +8,7 @@ header nav:last-of-type {
 }
 
 a:not(.current) {
-  background-color: #8f2440;
+  color: #8f2440;
 }
 
 h1 {
